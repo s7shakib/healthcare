@@ -6,7 +6,7 @@ import { ID, Query } from "node-appwrite";
 import { Appointment } from "@/types/appwrite.types";
 
 import {
-  APPOINTMENT_COLLECTION_ID,
+  APPOINTMENT_COLLECTION,
   DATABASE_ID,
   databases,
   messaging,
