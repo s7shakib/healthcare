@@ -40,6 +40,21 @@ A healthcare patient management application that allows patients to easily regis
 - ShadCN
 - Twilio
 
+  ## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](./home.png)
+
+### Inventory Page 
+![Inventory Details](./assets/products.png)
+
+### Expenses Page
+![User Management](./assets/expenses.png)
+
+### Database Postgres 
+![Alerts and Notifications](./assets/postgres.png)
+
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Register as a Patient**: Users can sign up and create a personal profile as a patient.
