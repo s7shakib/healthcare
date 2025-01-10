@@ -48,7 +48,6 @@ A healthcare patient management application that allows patients to easily regis
 ### Create Appointment
 ![Inventory Details](./appointment.png)
 
-### Create A New Appointment
 ![User Management](./new.png)
 
 ### Admin Page Overview 
