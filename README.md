@@ -42,17 +42,17 @@ A healthcare patient management application that allows patients to easily regis
 
   ## Screenshots
 
-### Dashboard Overview
+### Home Page Overview
 ![Dashboard Overview](./home.png)
 
-### Inventory Page 
-![Inventory Details](./assets/products.png)
+### Create Appointment
+![Inventory Details](./appointment.png)
 
-### Expenses Page
-![User Management](./assets/expenses.png)
+### Create A New Appointment
+![User Management](./new.png)
 
-### Database Postgres 
-![Alerts and Notifications](./assets/postgres.png)
+### Admin Page Overview 
+![Alerts and Notifications](./adminDashboard.png)
 
 
 ## <a name="features">🔋 Features</a>
