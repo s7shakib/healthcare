@@ -5,7 +5,7 @@ import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import {
   Dialog,
-  DialogGontent,
+  DialogContent,
   DialogDescription,
   DialogHeader,
   DialogTitle,
